@@ -1,0 +1,1 @@
+document.getElementById("show_name").innerHTML = "My name is Danh!"
